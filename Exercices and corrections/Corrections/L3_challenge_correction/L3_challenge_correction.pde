@@ -1,0 +1,15 @@
+size(500,500); 
+background(200);
+fill(255);
+stroke(0);
+rectMode(CENTER);
+ellipse(250,250,80,80);
+rect(10,250,20,500);
+rect(450,250,20,100);
+/*background(255);
+fill(0);
+stroke(0);
+rectMode(CENTER);
+ellipse(250,250,80,80);
+rect(10,250,20,500);
+rect(450,250,20,100);*/
